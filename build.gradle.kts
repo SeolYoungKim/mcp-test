@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    implementation("io.modelcontextprotocol:kotlin-sdk:0.4.0")
     testImplementation(kotlin("test"))
 }
 
